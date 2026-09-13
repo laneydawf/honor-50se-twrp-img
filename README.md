@@ -39,7 +39,7 @@
 | 镜像对应分区 | `recovery_ramdisk` |
 | 安装条件 | 已具备运行自定义 Recovery 的条件（解锁BL） |
 
-镜像没有原厂签名。现有验证不能直接覆盖原厂锁定设备或其他解锁方式；**额外修改 LK 不作为默认安装要求**。设备范围和原 Recovery 备份要求见 [安装说明](docs/INSTALL.md)。
+镜像没有原厂签名。现有验证不能直接覆盖原厂锁定设备或其他解锁方式。
 
 <a id="download"></a>
 
@@ -53,7 +53,7 @@
 | `SHA256SUMS.txt` | Release 文件的 SHA-256 校验清单 |
 
 <details>
-<summary>v21 镜像完整 SHA-256</summary>
+<summary> 镜像完整 SHA-256</summary>
 
 ```text
 dd8973e46a7a731f0267623efeb764a2f279f2783d8c25dbee9ed3c74bac5df0
