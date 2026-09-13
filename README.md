@@ -11,9 +11,6 @@
 </p>
 
 
-<p align="center">
-  <strong>简体中文</strong> · <a href="README.en.md">English</a>
-</p>
 
 为荣耀 50 SE 提供中文界面、触摸支持、已有加密数据读取、滑动清除、userspace Fastboot。
 
